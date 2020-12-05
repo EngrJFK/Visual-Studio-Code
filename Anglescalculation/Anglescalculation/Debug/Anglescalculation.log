@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  Anglescalculation.cpp
+c:\users\kamaldeen\source\repos\anglescalculation\anglescalculation\anglescalculation.cpp(20): error C2661: 'sin': no overloaded function takes 0 arguments

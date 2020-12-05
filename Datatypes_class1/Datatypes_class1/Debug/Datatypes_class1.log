@@ -1,0 +1,5 @@
+﻿  Datatypes_class1.cpp
+c:\users\kamaldeen\source\repos\datatypes_class1\datatypes_class1\datatypes_class1.cpp(15): warning C4101: 'm': unreferenced local variable
+c:\users\kamaldeen\source\repos\datatypes_class1\datatypes_class1\datatypes_class1.cpp(14): warning C4101: 'k': unreferenced local variable
+c:\users\kamaldeen\source\repos\datatypes_class1\datatypes_class1\datatypes_class1.cpp(13): warning C4101: 'p': unreferenced local variable
+  Datatypes_class1.vcxproj -> c:\users\kamaldeen\source\repos\Datatypes_class1\Debug\Datatypes_class1.exe

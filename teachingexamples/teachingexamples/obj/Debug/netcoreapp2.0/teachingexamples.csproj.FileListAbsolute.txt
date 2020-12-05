@@ -1,0 +1,10 @@
+C:\Users\Kamaldeen\source\repos\teachingexamples\teachingexamples\bin\Debug\netcoreapp2.0\teachingexamples.deps.json
+C:\Users\Kamaldeen\source\repos\teachingexamples\teachingexamples\bin\Debug\netcoreapp2.0\teachingexamples.runtimeconfig.json
+C:\Users\Kamaldeen\source\repos\teachingexamples\teachingexamples\bin\Debug\netcoreapp2.0\teachingexamples.runtimeconfig.dev.json
+C:\Users\Kamaldeen\source\repos\teachingexamples\teachingexamples\bin\Debug\netcoreapp2.0\teachingexamples.dll
+C:\Users\Kamaldeen\source\repos\teachingexamples\teachingexamples\bin\Debug\netcoreapp2.0\teachingexamples.pdb
+C:\Users\Kamaldeen\source\repos\teachingexamples\teachingexamples\obj\Debug\netcoreapp2.0\teachingexamples.csproj.CoreCompileInputs.cache
+C:\Users\Kamaldeen\source\repos\teachingexamples\teachingexamples\obj\Debug\netcoreapp2.0\teachingexamples.AssemblyInfoInputs.cache
+C:\Users\Kamaldeen\source\repos\teachingexamples\teachingexamples\obj\Debug\netcoreapp2.0\teachingexamples.AssemblyInfo.cs
+C:\Users\Kamaldeen\source\repos\teachingexamples\teachingexamples\obj\Debug\netcoreapp2.0\teachingexamples.dll
+C:\Users\Kamaldeen\source\repos\teachingexamples\teachingexamples\obj\Debug\netcoreapp2.0\teachingexamples.pdb

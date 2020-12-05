@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalculatingAngles", "CalculatingAngles\CalculatingAngles.vcxproj", "{AEDED88B-2E68-44A5-B431-49EC220CE9D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEDED88B-2E68-44A5-B431-49EC220CE9D2}.Debug|x64.ActiveCfg = Debug|x64
+		{AEDED88B-2E68-44A5-B431-49EC220CE9D2}.Debug|x64.Build.0 = Debug|x64
+		{AEDED88B-2E68-44A5-B431-49EC220CE9D2}.Debug|x86.ActiveCfg = Debug|Win32
+		{AEDED88B-2E68-44A5-B431-49EC220CE9D2}.Debug|x86.Build.0 = Debug|Win32
+		{AEDED88B-2E68-44A5-B431-49EC220CE9D2}.Release|x64.ActiveCfg = Release|x64
+		{AEDED88B-2E68-44A5-B431-49EC220CE9D2}.Release|x64.Build.0 = Release|x64
+		{AEDED88B-2E68-44A5-B431-49EC220CE9D2}.Release|x86.ActiveCfg = Release|Win32
+		{AEDED88B-2E68-44A5-B431-49EC220CE9D2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF183A6C-4CD8-46BA-8F88-00A37E96842E}
+	EndGlobalSection
+EndGlobal

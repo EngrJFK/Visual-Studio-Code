@@ -1,0 +1,4 @@
+﻿  Inheritance.cpp
+c:\users\kamaldeen\source\repos\inheritance\inheritance\inheritance.cpp(92): warning C4101: 'sqrt': unreferenced local variable
+c:\users\kamaldeen\source\repos\inheritance\inheritance\inheritance.cpp(91): warning C4101: 'rect': unreferenced local variable
+  Inheritance.vcxproj -> C:\Users\Kamaldeen\source\repos\Inheritance\Debug\Inheritance.exe

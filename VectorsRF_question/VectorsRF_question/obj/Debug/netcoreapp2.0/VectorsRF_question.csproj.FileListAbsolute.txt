@@ -1,0 +1,11 @@
+c:\users\kamaldeen\source\repos\VectorsRF_question\VectorsRF_question\bin\Debug\netcoreapp2.0\VectorsRF_question.deps.json
+c:\users\kamaldeen\source\repos\VectorsRF_question\VectorsRF_question\bin\Debug\netcoreapp2.0\VectorsRF_question.runtimeconfig.json
+c:\users\kamaldeen\source\repos\VectorsRF_question\VectorsRF_question\bin\Debug\netcoreapp2.0\VectorsRF_question.runtimeconfig.dev.json
+c:\users\kamaldeen\source\repos\VectorsRF_question\VectorsRF_question\bin\Debug\netcoreapp2.0\VectorsRF_question.dll
+c:\users\kamaldeen\source\repos\VectorsRF_question\VectorsRF_question\bin\Debug\netcoreapp2.0\VectorsRF_question.pdb
+c:\users\kamaldeen\source\repos\VectorsRF_question\VectorsRF_question\obj\Debug\netcoreapp2.0\VectorsRF_question.csprojResolveAssemblyReference.cache
+c:\users\kamaldeen\source\repos\VectorsRF_question\VectorsRF_question\obj\Debug\netcoreapp2.0\VectorsRF_question.csproj.CoreCompileInputs.cache
+c:\users\kamaldeen\source\repos\VectorsRF_question\VectorsRF_question\obj\Debug\netcoreapp2.0\VectorsRF_question.AssemblyInfoInputs.cache
+c:\users\kamaldeen\source\repos\VectorsRF_question\VectorsRF_question\obj\Debug\netcoreapp2.0\VectorsRF_question.AssemblyInfo.cs
+c:\users\kamaldeen\source\repos\VectorsRF_question\VectorsRF_question\obj\Debug\netcoreapp2.0\VectorsRF_question.dll
+c:\users\kamaldeen\source\repos\VectorsRF_question\VectorsRF_question\obj\Debug\netcoreapp2.0\VectorsRF_question.pdb
