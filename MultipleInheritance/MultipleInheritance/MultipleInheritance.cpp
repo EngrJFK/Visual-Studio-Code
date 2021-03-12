@@ -2,10 +2,40 @@
 //
 
 #include <iostream>
+using namespace std; 
+
+class A
+{
+public: 
+   
+    int a = 5; 
+    A()
+    {
+        cout << "A's constructor called" << endl;
+    }
+
+};
+
+class B
+{
+public: 
+    int b = 10; 
+    B() { cout << "B's constructor called" << endl; }
+
+};
+
+class C : public B, public A // NOte the order 
+{
+public: 
+    int c = 20; 
+    C() { cout << "C's constructor called" << endl; }
+};
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    C c;
+    return 0; 
+    //cout << "Hello World!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
